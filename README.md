@@ -1,7 +1,7 @@
 # My Guiding Principles for AI Use
 
 **Karen U. Lindell**
-*Last updated: June 22, 2026*
+*Last updated: June 24, 2026*
 
 As AI becomes pervasive, and its uses (and hazards) multifaceted, individuals must determine for themselves when and how they will turn to AI tools, and when they won’t. This document is my effort to establish intentional guidelines for myself. Since I began working on these guidelines, I have felt better able to use AI both effectively and responsibly. While I am not suggesting that others should adopt these same guidelines – they are truly specific to my own roles and tolerances – I do encourage others to consider adopting principled guidelines for themselves as we attempt to navigate this new AI-dominated frontier.
 
@@ -11,19 +11,17 @@ As AI becomes pervasive, and its uses (and hazards) multifaceted, individuals mu
 
 * **AI use poses many potential problems, at the individual, community, and societal levels.** To name just a few (some of which are touched on more below):
 
-  * **Individual level:** shortcutting the learning process; cognitive surrender of important functions; mistakes due to unverified uses; potential job loss; difficulty discerning what is accurate/real; loneliness/isolation.
+  * **Individual level:** shortcutting the learning process; cognitive surrender of important functions; mistakes due to unverified uses; difficulty discerning what is accurate/real.
   * **Community level:** lack of meaningful engagement with each other, as we turn to AI for things we used to turn to people for; distrust of whether what you are getting from friends/colleagues reflects actual thought and engagement.
-  * **Societal level:** economic destruction of needed creative fields (upon which AI was trained); undermining of truth/reality in turn contributing to further institutional collapse/conditions for authoritarianism; environmental harms.
+  * **Societal level:** economic destruction of needed creative fields (upon which AI was trained); undermining of truth/reality, which in turn could contribute to further institutional collapse; environmental harms.
 
 * **We are already awash with AI Slop, and it’s only going to get worse.** “AI Slop” refers to content that facially looks or sounds good, but upon closer inspection doesn’t really say or mean anything. It is a broad term that includes not just hallucinated or fabricated content, but also hollow content – language or visuals that appear to convey meaning but do not actually reflect human thought. As AI gets better, AI Slop gets even easier to produce and harder to detect. While not all AI-produced content is AI Slop, it is everywhere.
 
-* **We are all vulnerable to creating AI Slop.** There are few clear/easy lines on what constitutes AI misuse (although there certainly are lots of helpful rubrics and best practices). Even those of us who are trained enough in AI to avoid the worst errors (hallucinated information; completely outsourcing thinking) are at high risk of occasional misuse, especially given the multiple dimensions of the potential harms. AI reduces friction, and friction (or effort) is often what helps us achieve meaning and learn. Yet we are also hardwired to avoid it – we take the easy way out, even when we know better, and especially when we become used to leaning on an extremely powerful new tool for everyday tasks.
+* **We are all vulnerable to creating AI Slop.** There are few clear or easy lines on what constitutes AI misuse (although there certainly are lots of helpful rubrics and best practices). Even those of us who are trained enough in AI to avoid the worst errors (hallucinated information; completely outsourcing thinking) are at high risk of occasional misuse, especially given the multiple dimensions of the potential harms. AI reduces friction, and friction (or effort) is often what helps us achieve meaning and learn. Yet we are also hardwired to avoid it – we take the easy way out, even when we know better, and especially when we become used to leaning on an extremely powerful new tool for everyday tasks.
 
-* **The prevalence of AI Slop and the challenges detecting it are leading to widespread AI Suspicion, which causes its own issues.** As we all get burned more by AI misuses, and become even more awash in AI Slop, we start to assume that content is AI-inflected even when perhaps it isn’t. Thus, even accurate and meaningful content may be harmed or diluted by the pervasiveness of AI Slop.
+* **The prevalence of AI Slop and the challenges detecting it are leading to widespread AI Suspicion, which causes its own issues.** As we all get burned by AI misuses, and become even more awash in AI Slop, we start to assume that content is AI-inflected even when perhaps it isn’t. Thus, even accurate and meaningful content may be harmed or diluted by the pervasiveness of AI Slop.
 
-* **Neither the Tech Giants nor the government will save us.** The creators of AI (and the Tech Giants who are harnessing it) are fundamentally obsessed with themselves and their creations and will ultimately pursue their own self-interests regardless of what they say. Government is inept and beholden to the Tech Giants. None of them can be trusted to help us draw appropriate boundaries.
-
-* **It will be hard if not impossible to totally boycott AI, especially in my current role.**
+* **Individual boundary-setting is currently the only effective guardrail on AI use.** The creators of AI and the companies attempting to harnass it are incentivized to proliferate, not to limit use. Government does not yet seem inclined or able to meaningfully regulate AI. Although some institutions are setting strict rules for AI use, those rules typically depend on voluntary compliance for enforcement. Ultimately, meaningful regulation of AI use is therefore in the hands of the individual.  
 
 ## Guiding Principles For My AI Use:
 
@@ -31,11 +29,11 @@ Given those factual premises, below are my personal guiding principles for AI us
 
 ### Default Mode: No AI.
 
-Only use AI with intentionality, using the guiding principles below. Even if a use falls into the “Acceptable Uses,” consider whether the use is important enough to warrant resorting to a product that causes harm and rewards bad actors. This does not mean that I will be AI-phobic – there are lots of Acceptable Uses. It just means that I will affirmatively decide each time I turn to AI whether the conditions for use are met.
+Only use AI with intentionality, using the guiding principles below. Even if a use falls into the “acceptable uses,” consider whether the use is important enough to warrant resorting to AI, given its potential harms. This does not mean that I will be AI-phobic – there are lots of acceptable uses. It just means that I will affirmatively decide each time I turn to AI whether the conditions for use are met.
 
 ### Acceptable Uses of AI:
 
-Below are uses of AI that, overall, fit within AI’s core skill set and have a lower risk of contributing to AI Slop or outsourcing too much thinking to AI. It is certainly non-exhaustive (no list of possible AI uses could be comprehensive), and there are also uses that fall into multiple buckets. These are intended to be broad categories organized roughly by type of task.
+Below are uses of AI that, overall, I believe fit within AI’s core skill set and have a lower risk of contributing to AI Slop or outsourcing too much thinking to AI. It is certainly non-exhaustive (no list of possible AI uses could be comprehensive), and there are also uses that fall into multiple buckets. These are intended to be broad categories organized roughly by type of task.
 
 #### 1. Translation of Information
 
@@ -49,32 +47,32 @@ Examples include:
 
 **Justification:** This use falls into AI’s core skill set, is often categorically beyond an individual’s skill set, and may open entirely new horizons.
 
-#### 2. Summarizing/Explaining Known Bodies of Information
+#### 2. Summarizing or Explaining Known Bodies of Information
 
 It is acceptable to use AI to summarize or explain things for purposes of **general content knowledge or introductory familiarity.** 
 
 Examples include:
 
-* Using specialized legal tools to get a general sense of a body of caselaw and to access underlying sources (e.g., Westlaw Deep Research)
-* Using a less specialized tool (e.g., ChatGPT) to get a general handle on a topic – and ideally to also find the underlying sources.
+* Using specialized legal tools to get a general sense of a body of caselaw and to access underlying sources (e.g., Westlaw's Deep Research tool)
+* Using a less specialized tool (e.g., ChatGPT) to get a general handle on a topic – and ideally also to find the underlying sources.
 * Asking AI to summarize key provisions or themes in a long document
   
 **Justification:** AI is increasingly good at this, and this use falls within its core skill set in the sense that it can read and repackage information well. There is less risk of contributing to AI Slop, because this use is not about content creation. There is still the risk of undercutting learning (where the synthesis itself is important) and the risk of inaccuracy (so deeper research/verification needed for substantive tasks).
 
-#### 3. Categorizing/Labeling/Organizing/Repackaging Content that I Provide It
+#### 3. Categorizing/Organizing/Repackaging Content that I Provide It
 
-This is essentially using AI as a very good reader, and it acceptable except in situations where I am trying to learn the content myself (and thus the repackaging is part of the learning process).
+This is essentially using AI as a very good reader, and it is acceptable except in situations where I am trying to learn the content myself (and thus the repackaging is part of the learning process).
 
 Examples include:
 
-* Data analysis projects (coding free-text entries based on specifications).
+* Data analysis projects (using AI to code free-text entries based on specifications).
 * Development of learning tools from course materials (e.g., a tutor bot)
 
 **Justification:** This use is within its basic skill set and will sometimes open possibilities that were not previously available. There is a risk of inaccuracy, and so development of verification processes is necessary.
 
 #### 4. Targeted/Sophisticated Searching
 
-Especially as Google kills off traditional search, using AI to find specific answers to complex questions is acceptable, although best practice is still to use it to find (and visit) an actual human-originated source if possible, or to talk to an actual person! 
+Especially as Google moves away from traditional search, using AI to find specific answers to complex questions is acceptable, although best practice is still to use it to find (and visit) an actual human-originated source if possible, or to talk to an actual person! 
 
 Examples include:
 
@@ -99,7 +97,7 @@ Examples include:
 
 #### 6. Sophisticated Dictation
 
-"Sophisticated dictation" means dictating or rapidly drafting content to AI and asking it to turn that into a rough draft of a text. This is not just dictating a prompt – the dictation must be the actual content I am trying to produce, just in rougher format. (i.e., a classic secretarial function, plus.) That draft will then need heavy editing. 
+"Sophisticated dictation" means dictating or rapidly drafting content to AI and asking it to turn that into a rough draft of a text. This is not just dictating a prompt – the dictation must be the actual content I am trying to produce, just in rougher format. That draft will then need heavy editing. 
 
 Examples include:
 
@@ -125,7 +123,7 @@ Examples include:
 * A "Neighborhood Scavenger Hunt" to entertain kids during school closure day
 * Sample text for an editing exercise
 * Glossary of terms for a grant
-* Fake news stories or other factual materials for simulation problems for students
+* Fake news stories or other record documents for simulation problems for students
   
 **Justification:** These uses are overall the most fraught – using AI to produce content risks contributing to AI Slop and AI Suspicion, and also undercuts all kinds of human functions. These rules try to strike a balance, recognizing that there are some circumstances where the time saved through AI-created content will be worth the potential costs.
 
@@ -135,7 +133,7 @@ Examples include:
 
 #### 1. “Lazy AI”
 
-I will not use AI to make an easy, low-stakes task a little bit easier. The main example is everyday emailing. The risks of such uses are: creating the bad habit of turning off my brain too frequently, creating a crutch that I become reliant on, and not directly communicating with others (in addition to the general reasons behind my default position of “no AI”). The benefits are few: an easy task made slightly easier; avoiding typos or other errors in a situation where such mistakes probably don’t matter. Thus, the benefits do not outweigh the costs/risks.
+I will not use AI to make an easy, low-stakes task a little bit easier. The main example (for me) is everyday emailing. The risks of such uses are: creating the bad habit of turning off my brain too frequently, creating a crutch that I become reliant on, and not directly communicating with others (in addition to the general reasons behind my default position of “no AI”). The benefits are few: an easy task made slightly easier; avoiding typos or other errors in a situation where such mistakes probably don’t matter. Thus, for me the benefits do not outweigh the costs/risks.
 
 #### 2. Drafting expressions of feeling/emotion
 
@@ -147,7 +145,7 @@ The risk that I am contributing to the universe of AI Slop is far too high for m
 
 #### 4. Cognitive offloading core parts of my job/skill set/identity
 
-For me, this rule means I will not use AI for any part of the writing process (brainstorming, outlining, drafting, revision), for anything that I would like to have pride of authorship over, or that I am representing to others as my work. While theoretically there can be ok uses of AI in some of these spaces (e.g., asking AI for other suggestions for structure during the outlining process, or to be a thought-partner in the brainstorming), for me the risk is too high of becoming dependent on it for tasks that (A) are not really its skill set (remember, it cannot actually think) and (B) are my skill set. Plus, there is risk of producing AI Slop.
+For me, this rule means I will not use AI for any part of the writing process (brainstorming, outlining, drafting, revision), for anything that I would like to have pride of authorship over, or that I am representing to others as my work. While theoretically there can be ok uses of AI in some of these spaces (e.g., asking AI for other suggestions for structure during the outlining process, or to be a thought-partner in the brainstorming), for me the risk is too high of becoming dependent on it for tasks that (A) are not really its skill set (remember, it cannot actually think) and (B) are my skill set. 
 
 #### 5. Any uses of AI that haven’t been verified, where accuracy is important
 
