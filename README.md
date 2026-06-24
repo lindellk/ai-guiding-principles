@@ -160,4 +160,4 @@ That means there must be robust verification processes for any legal work and an
 
 ---
 
-*This is a living document. I revise it as my thinking and practices evolve. [Prior versions](https://github.com/lindellk/ai-guiding-principles/commits/main/index.md) are available on GitHub.*
+*This is a living document. I revise it as my thinking and practices evolve. [Prior versions](https://github.com/lindellk/ai-guiding-principles/commits/main/README.md) are available on GitHub.*
