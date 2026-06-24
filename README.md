@@ -21,7 +21,7 @@ As AI becomes pervasive, and its uses (and hazards) multifaceted, individuals mu
 
 * **The prevalence of AI Slop and the challenges detecting it are leading to widespread AI Suspicion, which causes its own issues.** As we all get burned by AI misuses, and become even more awash in AI Slop, we start to assume that content is AI-inflected even when perhaps it isn’t. Thus, even accurate and meaningful content may be harmed or diluted by the pervasiveness of AI Slop.
 
-* **Individual boundary-setting is currently the only effective guardrail on AI use.** The creators of AI and the companies attempting to harnass it are incentivized to proliferate, not to limit use. Government does not yet seem inclined or able to meaningfully regulate AI. Although some institutions are setting strict rules for AI use, those rules typically depend on voluntary compliance for enforcement. Ultimately, meaningful regulation of AI use is therefore in the hands of the individual.  
+* **Individual boundary-setting is currently the only effective guardrail on AI use.** The creators of AI and the companies attempting to harness it are incentivized to proliferate, not to limit use. Government does not yet seem inclined or able to meaningfully regulate AI. Although some institutions are setting strict rules for AI use, those rules typically depend on voluntary compliance for enforcement. Ultimately, meaningful regulation of AI use is therefore in the hands of the individual.  
 
 ## Guiding Principles For My AI Use:
 
