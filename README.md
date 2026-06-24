@@ -9,7 +9,7 @@ As AI becomes pervasive, and its uses (and hazards) multifaceted, individuals mu
 
 * **AI is an extremely powerful tool, but it also has inherent limits.** AI platforms provide us with a way to interface with a Large Language Model. AI cannot think, reason, feel, or come up with original ideas of its own. It is not human. It has access to a vast quantity of human-made information (far more than any one person could ever know), and it is remarkably capable of using that vast quantity of information to produce contextually appropriate content effortlessly and almost instantaneously.
 
-* **AI use poses many potential problems, at the individual, community, and societal levels.** To name just a few (some of which are touched on more below):
+* **AI use poses many potential problems, at the individual, community, and societal levels.** To name just a few:
 
   * **Individual level:** shortcutting the learning process; cognitive surrender of important functions; mistakes due to unverified uses; difficulty discerning what is accurate/real.
   * **Community level:** lack of meaningful engagement with each other, as we turn to AI for things we used to turn to people for; distrust of whether what you are getting from friends/colleagues reflects actual thought and engagement.
@@ -103,7 +103,7 @@ Examples include:
 
 * Cover feedback memos
 * Patient notes
-* Recommendation letters (where I rapidly draft the content, AI smooths it out, and then I heavily revise).
+* Recommendation letters (where I plan and then rapidly draft the content, AI smooths it out, and then I heavily revise).
 
 **Justification:** This use falls within AI’s core skill set and ideally makes certain everyday tasks a little easier without too much cognitive offloading. The main risk is the blurring of lines – where does sophisticated dictation end and true drafting begin?
 
